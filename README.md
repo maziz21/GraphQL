@@ -6,7 +6,7 @@ Ce projet est une API GraphQL de gestion de tâches développée avec Node.js, E
 
 1️⃣ Cloner le dépôt
 
-git clone https://github.com/VOTRE-UTILISATEUR/NOM-DU-REPO.git
+git clone https://github.com/maziz21/GraphQL.git
 cd NOM-DU-REPO
 
 2️⃣ Installer les dépendances
